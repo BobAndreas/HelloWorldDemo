@@ -1,2 +1,2 @@
 # HelloWorldDemo
-Just a short stupid hello-world example
+Just another repository
